@@ -1,0 +1,379 @@
+
+.btn {
+    background-color: silver;
+    border: none;
+    color: black;
+    padding: 10px 15px;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    float: left;
+    margin-right: 15px;
+  }
+  
+   .btn:hover {
+    background-color:saddlebrown;
+  }
+  ul li{
+    list-style: none;
+    display: inline;
+    word-spacing: 10px;
+    color:darkgrey;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+} 
+
+.picture{
+    float: left;
+    margin-left: 300px;
+    
+}
+.login{
+    
+    margin-left: 75%;
+    padding-left: 15%;
+    font-weight: 600;
+    font-family:Arial;
+    padding-top: 10px;
+    
+
+}
+.login:hover{
+    text-decoration: underline;
+}
+.line{
+   margin-top: 15px;
+   height: 3px;
+   width: 100%;
+   background:cornflowerblue;
+}
+
+.space{
+height: 20px;
+background: linear-gradient(skyblue,lightblue);
+position: relative;
+
+}
+.text{
+height: 300px;
+width: 98.8%;
+background: linear-gradient(lightblue,skyblue,lightblue);
+position: absolute;
+
+}
+.bold{
+    text-align: center;
+    font-size: 30px;
+    font-family:'Arial' ;
+    padding-top: 0;
+    position: relative;
+    right: 100px;
+}
+.simple{
+    text-align: center;
+    font-family: 'Arial';
+    font-size: 18px;
+    position: relative;
+    right: 70px;
+    bottom: 20px;
+}
+.link{
+    text-align: center;
+    position: relative;
+    top: 20px;
+    right: 80px;
+}
+.link>a:link, a:visited {
+    background-color:orange;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .link>a:hover, a:active {
+    background-color:chocolate;
+  }
+  .init{
+    height: 70px;
+position: relative;
+margin-top: 300px;
+  
+}
+.career{
+    height: 180px;
+    position: relative;
+
+}
+.left{
+    width: 30%;
+    height: 100%;
+    position: ABSOLUTE;
+      float: left;
+}
+#wish{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    position: relative;
+    top: 20px;
+    left: 260px;
+    font-size: 25px;
+    /* color:rgb(red, green, rgb(28, 28, 32)); */
+
+}
+ 
+.right{
+    width: 100%;
+}
+
+ #skills{
+    
+  margin-left:450px;
+ border-radius: 6px; 
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-right: 20px;
+   height: 30px;
+  width: 160px;
+  background-color: lightskyblue;
+ }
+ 
+ #degree{
+    
+    margin-left:700px;
+    border-radius: 6px;
+    height: 100px;
+    width: 180px;
+    background-color:orange;
+    padding-top: 10px;
+    margin-top:-110px;  
+}
+
+   #partner{
+    
+    margin-left:950px;
+    border-radius: 6px; 
+    padding-top: 40px;
+    padding-bottom: 40px;
+     height: 30px;
+    width: 180px;
+    background-color: rgb(26, 19, 22);
+    margin-top: -110px;
+   }
+   .skills a{
+      text-align: center;
+      justify-content: center;
+      margin: auto;
+      margin-left: 30px;
+      text-decoration: none;
+      color: white;
+      font-size: 20px;
+      font-family:  sans-serif
+      
+   }
+ .skills a:hover{
+    text-decoration: underline;
+ }
+ .forth{
+    text-align: center;
+    font-size: 30px;
+    font-family:  'Arial Narrow', Arial, sans-serif;
+ }
+ 
+ .fifth{
+    background-color:lavender;
+    min-height: 20px;
+    width: 100%;
+    font-family:  Tahoma, sans-serif;
+    margin-top: 20px;
+ }
+ .fifth img{
+    margin-left: 150px;
+    margin-top: 30px;
+ }
+ .fifth #a1{
+    float: right;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    right: 100px;
+    top: 100px;
+    font-size: 30px;
+
+ }
+ .fifth #a2{
+    
+     text-decoration: none;
+     color: black;
+     font-size: 30px;
+     position: relative;
+     left: 450px;
+     bottom: 50px;
+     
+     
+    }
+    .fifth #a1:hover{
+   text-decoration: underline;
+    }
+    
+    .fifth #a2:hover{
+       text-decoration: underline;
+        }
+   .sixth{
+    width: 100%;
+    min-height: 40px;
+    background-color: lavender;
+    
+    text-align: center;
+   }     
+   .sixth a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+  
+   }
+   .sixth a:hover{
+    text-decoration: underline;
+   }
+
+   .seventh{
+    position:relative;
+    width: 99%;
+    min-height: 100px;
+   }
+   .seventh p{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(31, 27, 29);
+   }
+   .vertical{
+    border: 1px;
+    border-style:ridge;
+    margin: auto;
+    width: 80%;
+ }
+ .partners{
+    display: flex;
+    width: 100%;
+    position: relative;
+    min-height: 200px;
+ 
+}
+ .partners img{
+    width: 160px;
+    height:130px;
+    margin-left: 80px;
+    margin-top: 100px;
+ }
+ #credit {
+    margin-left: 100px;
+  margin-top: 20px;
+ }
+ .news{
+    max-width: 100%;
+    min-height: 250px;
+    margin-top: 30px;
+    position: relative;
+ }
+ #mission{
+    position: relative;
+    text-align: center;
+    
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 100px;
+ }
+ #message{
+    display: flex;
+   
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-top: 50px;
+ }
+ #news{
+    font-size: 35px ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin-top: 70px;
+ }
+/* .finalmsg{
+    position: relative;
+    min-height: 100px;
+    max-width: 100%;
+    background-color: black;
+} */
+
+.professor{
+    border: 1px groove lightslategray;
+    min-height: 100px;
+    max-width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    border-radius: 6px;
+    
+}
+.professor img{
+    position: relative;
+    width: 30%;
+    height: 20%;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 40px;
+   
+    border-radius: 4px;
+    
+}
+.professor .a1{
+    position: absolute;
+    margin-left: 20px;
+    color: lightblue;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+
+}
+.professor .a2{
+    position: absolute;
+    margin-left: 100px;
+    color: lightblue;
+    text-decoration: none;
+    margin-top: 100px;
+
+}
+.professor .p1{
+    float: right;
+    margin-right: 715px;
+    margin-top: 100px;
+    font-family: sans-serif;
+
+}
+.professor .p2{
+    display: inline-block;
+    position: absolute;
+    padding-left: 20px;
+    margin-top:150px;
+    text-align: justify;
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.professor .a3{
+    position:absolute;
+    margin-top:-100px;
+    margin-left: -100px;
+    background-color: rgb(255, 87, 9);
+}
+
+.professor .a1:hover,.a2:hover{
+    text-decoration: underline;
+}
